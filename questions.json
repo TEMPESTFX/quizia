@@ -1,0 +1,90 @@
+{
+    "sexualité": [
+        {
+            "question": "Quel est l'âge légal du consentement sexuel en France ?",
+            "options": [
+                "15 ans",
+                "18 ans",
+                "16 ans",
+                "14 ans"
+            ],
+            "answer": "15 ans"
+        },
+        {
+            "question": "Qu’est-ce que le VIH ?",
+            "options": [
+                "Un virus",
+                "Une bactérie",
+                "Un champignon",
+                "Un vaccin"
+            ],
+            "answer": "Un virus"
+        }
+    ],
+    "histoire-géo": [
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "options": [
+                "1789",
+                "1776",
+                "1792",
+                "1804"
+            ],
+            "answer": "1789"
+        }
+    ],
+    "religion": [
+        {
+            "question": "Combien de livres contient la Bible catholique ?",
+            "options": [
+                "73",
+                "66",
+                "70",
+                "80"
+            ],
+            "answer": "73"
+        },
+        {
+            "question": "Quel prophète est commun aux trois religions monothéistes ?",
+            "options": [
+                "Moïse",
+                "Bouddha",
+                "Krishna",
+                "Confucius"
+            ],
+            "answer": "Moïse"
+        }
+    ],
+    "sport": [
+        {
+            "question": "Combien de joueurs dans une équipe de football sur le terrain ?",
+            "options": [
+                "11",
+                "10",
+                "12",
+                "9"
+            ],
+            "answer": "11"
+        },
+        {
+            "question": "Qui détient le record du 100m en athlétisme ?",
+            "options": [
+                "Usain Bolt",
+                "Carl Lewis",
+                "Justin Gatlin",
+                "Asafa Powell"
+            ],
+            "answer": "Usain Bolt"
+        }
+    ]
+}
